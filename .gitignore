@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Java files
+*.class
+*.jar
